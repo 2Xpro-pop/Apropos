@@ -2,7 +2,8 @@
 
 namespace Apropos
 {
-    public class Class1
+    public abstract class AbilitySystem
     {
+
     }
 }
